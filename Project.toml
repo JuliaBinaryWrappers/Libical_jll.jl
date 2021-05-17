@@ -1,0 +1,18 @@
+name = "Libical_jll"
+uuid = "bce108ef-3f60-5dd0-bcd6-e13a096cb796"
+version = "3.0.9+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+XML2_jll = "02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+ICU_jll = "a51ab1cf-af8e-5615-a023-bc2c838bba6b"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+BerkeleyDB_jll = "cd00e070-8fe2-570d-8212-aefc8f89bd06"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+ICU_jll = "68.2"

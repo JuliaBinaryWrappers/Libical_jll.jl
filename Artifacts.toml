@@ -1,0 +1,228 @@
+[[Libical]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d43eab8317f48abbbca1a006292a305c6f0674c9"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "4194bff1d35fee14573dbd7f2edc5528059351ddad2e96d5c5e75891ad347629"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.aarch64-linux-gnu-cxx03.tar.gz"
+[[Libical]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b3cb0325a6f76e067dbbaa1b86559ccc60a07c4"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "f094fcf60219e98c98093082fd11f970a945e48f734c5d93282c32f0fc48f584"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.aarch64-linux-gnu-cxx11.tar.gz"
+[[Libical]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "772f3f3bde08598d5d619d24d10f19c53220f375"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "31e3b598513daa99e7a84494474c489200cab9cda009250052228e5de04cc22c"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.aarch64-linux-musl-cxx03.tar.gz"
+[[Libical]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f950db828a7c08b031ea94d987fd02b8dd4140d5"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "7a6753b505bcf3d32cec9ed0d0258fc4a63e464d2809b87cc8f715f1c0ad3798"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.aarch64-linux-musl-cxx11.tar.gz"
+[[Libical]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e83449dda1c68bb76c379e9def9ac968fd46095"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "6fb9f9d767f65da931ce3b4a9f8685af4ece5c851210fa5b24e118994972e1e1"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Libical]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f503abbcd4cfac885056a774cd5242944d94e6ba"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "1624103e887f7f78793d4306fc7e407eadc0774fd155d0bd08314e09c4c21e71"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Libical]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9429fa4ca46eb7bb8410f3ae3f83d05569d05335"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "8bff87772821c3e9f33fcaa35971b79e926f7c80da4ee9344451ccdc93cd010e"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Libical]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "431250bbe15aaa27798817f198348545bf0569de"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "4608379d1cdf94c9f0157423f1cab195d9acd9edb8dcee8ebf21fb69f04b8b04"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Libical]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69b304c443a503a2df7389fe80eebfb15634ceea"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "ae5cd7715e4184af1bb41c7881fed4754262fa8010cb4d3543bcd2e941cf2d23"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.i686-linux-gnu-cxx03.tar.gz"
+[[Libical]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9ee758a845b2fa54b62d03f324e449339413d67"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "67582258a3af5e32cc76ceadec469d5fabcc6c4b8c52f1cd944239b975ac71a8"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.i686-linux-gnu-cxx11.tar.gz"
+[[Libical]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04e67ae2b350a64dee8f42fa98c940f6618625e1"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "99a9cdcce97a33788926149ab8dd9987dd247270035c9d032d08b9b5d1b0a208"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.i686-linux-musl-cxx03.tar.gz"
+[[Libical]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "03bd14a05d9e80a0174657633dbdad33b34da36d"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "a07ad20aa1180498f710a60ebd366e424ff61501ff0eb43d03e65f5568f926f0"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.i686-linux-musl-cxx11.tar.gz"
+[[Libical]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b949bb76655d7ba4e58f74f370df1915598b9268"
+os = "windows"
+
+    [[Libical.download]]
+    sha256 = "d47b2625f517bbb27445a3917f72e773e3ca2e9e229cab5bd2f7d4eef2cd34ec"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.i686-w64-mingw32-cxx03.tar.gz"
+[[Libical]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a9962bd1b0a99ef852b624aab2d4a0d80f747fc"
+os = "windows"
+
+    [[Libical.download]]
+    sha256 = "6d17d066030c99686423ae7c7fe7a2432ceb592fe318a114339755ed50854f06"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.i686-w64-mingw32-cxx11.tar.gz"
+[[Libical]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c9f77fa9f147b841fcc139377b13ec1b4bc71310"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "cf7e5412c8c27c49f005f96625bb42a0b4d7481ebc8d31449f8f747d6ee7c517"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Libical]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a303ea08c8f3cde780cb268a625060006e238a88"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "c7c87fd59f7dc4334dfd872a7aa0814c0a627c538acf3171548b806739e68d38"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Libical]]
+arch = "x86_64"
+git-tree-sha1 = "3e6b1e8a84813ff543932e63905fb5c6e7dd220f"
+os = "macos"
+
+    [[Libical.download]]
+    sha256 = "2a0b47a60d7f650c11c7ae722ab0235956b4c8eaeb0a1dd2600a450de744a3b7"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.x86_64-apple-darwin.tar.gz"
+[[Libical]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "577500d4468ca0d717bf0053529a7f8d70cbf1b4"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "a7b6ef5f728fcab9f8f979e9b1cdba5d0b5449f9358962b6c3d6311fa784a182"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.x86_64-linux-gnu-cxx03.tar.gz"
+[[Libical]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f643b9793a1d59dc7915badbdf52ce84d016d04"
+libc = "glibc"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "afbf23c0fd61d6aeddab62587f7aecff4fa4eedc4ac17c704d1ed2019bf9513a"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.x86_64-linux-gnu-cxx11.tar.gz"
+[[Libical]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7bf10425e66ffdb5b0c7e8aff277ad5799740df5"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "80122aaba8cfbe30619d307d8c3027abdf454ee7c9214a9716f5d2b39ed7570f"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.x86_64-linux-musl-cxx03.tar.gz"
+[[Libical]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fec9ec1d5b351eece80dcfae8b0832b93539757"
+libc = "musl"
+os = "linux"
+
+    [[Libical.download]]
+    sha256 = "a1ce4ee60bed152744a0a18620c675e5dcc1bac40237388459b7dd4a9473fd0a"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.x86_64-linux-musl-cxx11.tar.gz"
+[[Libical]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e564f143cd6d419162f3f5fc836e2104851152a8"
+os = "windows"
+
+    [[Libical.download]]
+    sha256 = "716b35f27336ffd7d081041b55c1b696aaa10cb6c8da1837f1a966fe1b4dbdce"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Libical]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39f9548b2f3ab4e389ef772a79097c91f05e7e6f"
+os = "windows"
+
+    [[Libical.download]]
+    sha256 = "19186504a5a88625b661fb2a7a587b5a99928822effed47e5bb8d67e9395c1be"
+    url = "https://github.com/JuliaBinaryWrappers/Libical_jll.jl/releases/download/Libical-v3.0.9+0/Libical.v3.0.9.x86_64-w64-mingw32-cxx11.tar.gz"
